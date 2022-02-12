@@ -1,7 +1,7 @@
 # My-Note-Taker
 An application that is used to write and save notes.  This application uses an Express.js back-end and saves and retrieves note data from a JSON.
 
-![image]()
+![image](https://github.com/CHaskin91/My-Note-Taker/blob/main/Screenshot-forReadMe.PNG)
 
 ## Table of Contents
 - [Links](#links)
